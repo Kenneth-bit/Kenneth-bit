@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open source stuff suitable for mid-level and beginner coders in python, js and c.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: kehnetehmjr@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: [my email](kehnetehmjr@gmail.com)
+- 😄 Pronouns: HE/HIM
+- ⚡ Fun fact: I am actually the past version of cyborg, figure that. ;)
+
 
 
