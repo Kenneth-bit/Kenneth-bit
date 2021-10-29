@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [my email](kehnetehmjr@gmail.com)
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: I am actually the past version of cyborg, figure that. ;)
-
-
-
+!["Cybernetic Organism"](https://vistapointe.net/images/cyborg-4.jpg)
